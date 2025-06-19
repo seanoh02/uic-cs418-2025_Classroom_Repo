@@ -35,7 +35,7 @@ All projects must align with one of the following themes:
 ### Week 3: Final Project Proposal
 - Begin your project work:
   - Form Project question or hypotheis. See example here: [`01_QuestionForming.md`](01_QuestionsForming.md)
-  - Select one of the dataset from [`./data/02_datasets.md`](02_datasets.md)
+  - Select one of the dataset from [`/data/02_datasets.md`](../data/02_datasets.md)
 ### Week 5: Final Project Development
   - Perform exploratory data analysis (EDA)
   - Build and evaluate a machine learning model (if applicable)
