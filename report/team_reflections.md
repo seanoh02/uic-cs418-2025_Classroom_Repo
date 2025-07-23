@@ -7,50 +7,40 @@ This document is a collective reflection on your team’s final project experien
 ## 1. What Did You Learn?
 
 What are the **most important skills or lessons** you gained through this project?
+Improved my ability to work using GitHub and learned real world limitations of data and how to preprocess and clean said data.
+Became more familiar with juypter notebook and building models with python.
+Data analysis and predicitive design skills were trained and tested to better refine our project to have real world implications. **todo
 
-> Example:
-> - Improved our ability to work collaboratively using GitHub
-> - Learned how to preprocess messy real-world data
-> - Built and interpreted a predictive model with real-world implications
 
 ---
 
 ## 2. What Went Well?
 
 Describe things that worked effectively in your team — technical or non-technical.
-
-> Example:
-> - Clear task delegation and weekly check-ins kept us on track 
-> - Our model achieved better performance than expected
-> - Our visualizations communicated results clearly to a non-technical audience
+Analysis skills were effective at creating parameters that allowed me to improve in other areas of data science.
+Presenation skills were challenged and presented with good questions for consideration allowing more interaction with audience. **todo
 
 ---
 
 ## 3.  What Was Challenging?
 
 What obstacles did you face — technically or as a team? How did you address them?
+My team stopped responding after given another chance at presenting our updated progress. I remedied this situation by doing the project myself. Consistent lack of communication and delegation was the key issues but after being asked what the data set for the last time I decided it was my data set I wanted to work with and not my teams.
 
-> Example:
-> - Had difficulty cleaning inconsistent timestamps in the dataset
-> - Struggled to balance workload among team members in week 3
-> - Initial model had high variance — learned to use cross-validation properly
 
 ---
 
 ## 4. What Would You Do Differently?
 
 If you could restart this project, what would you change or improve?
-
-> Example:
-> - Spend more time selecting the right dataset at the beginning
-> - Use version control more rigorously for notebooks
+I would start by myself or had a more reliable team to improve my overall quality of work. My work became rushed and had poor execution because of the assumption I would not be the only one working on the model and analysis. A clear model we were aiming for would have benefited expedition of work.
 
 ---
 
 ## 5. Final Thoughts
 
 Any final takeaways, surprises, or things you’re proud of?
-
+**todo
 > Example:
 > - We didn't expect to enjoy storytelling with data this much!
 > - Proud of how well we worked together despite differences
